@@ -25,5 +25,5 @@ A Text-to-Image Generator web application built with **HTML**, **CSS**, and **Ja
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/text-to-image-generator.git
+   git clone https://github.com/RashmikaAkash/Text-to-image-generator.git
 
